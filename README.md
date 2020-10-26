@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World
+Hi, I'm [Firman Sari](https://firmansari.web.id) 👋
 
-<!--
-**firmansari/firmansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![age](https://img.shields.io/badge/age-24-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-bogor-3c9)
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=firmansari.github.profile)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Firmansari's github stats](https://github-readme-stats.vercel.app/api?username=firmansari&show_icons=true)](https://github.com/firmansari)
+
+
+⭐️ From [windard](https://github.com/firmansari)
