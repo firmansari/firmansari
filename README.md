@@ -9,6 +9,3 @@ Hi, I'm [Firman Sari](https://firmansari.web.id) 👋
 <br />
 
 [![Firmansari's github stats](https://github-readme-stats.vercel.app/api?username=firmansari&show_icons=true)](https://github.com/firmansari)
-
-
-⭐️ From [windard](https://github.com/firmansari)
